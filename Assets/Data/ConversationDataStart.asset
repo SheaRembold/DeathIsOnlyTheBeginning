@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d47d1dd79fa2c643ba296eb522f22af, type: 3}
+  m_Name: ConversationDataStart
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: 063b735376c98ec4d9457c585f03fb96, type: 2}
+    text: Hello!
+  - character: {fileID: 11400000, guid: 063b735376c98ec4d9457c585f03fb96, type: 2}
+    text: I'm here to help you fight monsters. Click on a monster if you want to
+      direct me to attack it.
+  - character: {fileID: 11400000, guid: 063b735376c98ec4d9457c585f03fb96, type: 2}
+    text: The bigger monsters will leave behind spirits. Click on the spirit and
+      then throw a charm at it to recruit it.

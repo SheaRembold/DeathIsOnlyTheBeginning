@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2888138767276201530
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4573466373910343752, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_Name
+      value: EnemyStrongElectric
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343754, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: soul
+      value: 
+      objectReference: {fileID: 9205601974439116206, guid: a6a03f91ecec5ab46a3ab97e5b6ffb7e,
+        type: 3}
+    - target: {fileID: 4573466373910343754, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: weaknesses.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343754, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: resistances.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343754, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: weaknesses.Array.data[0]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343754, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: resistances.Array.data[0]
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343754, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: specialAttacks.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343754, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: specialAttacks.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 94d543a952e4c5c418b86f335cbcd1d8,
+        type: 2}
+    - target: {fileID: 4573466373910343755, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343755, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343755, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343755, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343755, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343755, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343755, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343755, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343755, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343755, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466373910343755, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4573466374881321930, guid: 914232cc5985803409cc744efe1c5bf6,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f4b98918e8016c14f86827a8d882f803,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 914232cc5985803409cc744efe1c5bf6, type: 3}
